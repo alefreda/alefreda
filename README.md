@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Alessandro, and I am a Computer Science student at @ Università di Bologna.
+
+🔭 I’m currently working on my Master's thesis 
+
+I truly believe in **free software**.
+I share the source code and I make it free everytime I can. 
+
+Here's some projects: 
 
 <!--
 **alefreda/alefreda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
