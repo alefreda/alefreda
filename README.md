@@ -1,7 +1,6 @@
 # Hi there 👋
 My name is Alessandro, and I am a Computer Science student at University of Bologna.
 
-🔭 I’m currently working on my Master's thesis 
 
 I truly believe in **free software**.
 
